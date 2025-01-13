@@ -1,0 +1,33 @@
+h1 {
+    color:rgb(116, 161, 228);
+}
+h2 {
+    color:rgb(116, 161, 228);
+}
+
+b {
+    color: rgb(227, 227, 80);
+}
+
+body { 
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body {
+    background-color : #3b3b2e;
+}
+
+p {
+    color: aliceblue;
+}
+div {
+    color: aliceblue;
+}
+a{
+    color: red;
+}
